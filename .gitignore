@@ -5,3 +5,7 @@ __pycache__
 simulations.json
 simulatons.json
 gpr_interpolation.py
+logs
+FF_to_TD_pred
+model_1_data
+model_2_data
