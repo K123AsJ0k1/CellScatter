@@ -1,7 +1,3 @@
-# CellScatter
+# CellScatter project repository
 
-**Work hours**
 
-| Name | Date | Hours | Description |
-| ---- | ---- | ----  | ----------- |
-| () | () | () | () | 
